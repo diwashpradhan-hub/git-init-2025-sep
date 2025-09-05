@@ -3,4 +3,6 @@ RollNo : 11
 Section : B
  
 Learning :
-  I learn to many thing from this workshop.
+  I learn to create and run git hub account.
+I learn how to clone, merge , to create new branch and many more.
+--------------------------------------------------------------
