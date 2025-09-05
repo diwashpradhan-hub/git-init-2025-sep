@@ -1,0 +1,7 @@
+Name:Diwash Pradhan
+  Section:B
+    Roll No:11
+      Days present:6
+        I learn how to create and  run git hub account.
+        I learn how to clone,merge,change branch,and many more.
+        ------------------------
